@@ -2,7 +2,7 @@
   "name": "siyuan-ttf-Noto_Sans",
   "author": "Emptylight",
   "url": "https://github.com/emptylight370/siyuan-ttf-Noto_Sans",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "backends": ["all"],
   "frontends": ["all"],
   "disabledInPublish": false,
@@ -11,8 +11,8 @@
     "zh_CN": "NotoSans字体"
   },
   "description": {
-    "default": "NotoSans (font)",
-    "zh_CN": "NotoSans字体"
+    "default": "Use NotoSans as layout font",
+    "zh_CN": "使用NotoSans作为界面字体"
   },
   "readme": {
     "default": "README.md",
@@ -21,5 +21,5 @@
   "funding": {
     "custom": ["https://afdian.com/a/tingyuting"]
   },
-  "keywords": ["font", "字体", "字", "Noto", "NotoSans", "中文字体", "English Font", "Japanse Font"]
+  "keywords": ["中文字体", "English Font", "Japanse Font"]
 }
