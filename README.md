@@ -1,18 +1,18 @@
-> Recent Updates: Fixed the issue of missing text in exported image after version v3.1.25.
+# SiYuan NotoSans Plugin
 
-# HarmonyOS Sans and Twemoji
+The font files comes from: [Noto - Google Fonts](https://fonts.google.com/noto), converted from .ttf format to .woff format using [CloudConvert](https://cloudconvert.com/ttf-to-woff).
 
-Font files sourced from: [HarmonyOS Design Resources](https://developer.huawei.com/consumer/cn/design/resource/). The font files was converted from .ttf to .woff format using [CloudConvert](https://cloudconvert.com/ttf-to-woff).
+## Notice
 
-Emoji files sourced from: [jdecked/twemoji](https://github.com/jdecked/twemoji): https://artefacts.whynothugo.nl/twemoji.ttf
+- This plugin may not be compatible with other fonts or Emoji plugins in the bazaar, please disable other fonts or Emoji plugins when using this plugin.
+- This plugin first tries to use the system's own NotoSans font, then fallback to the font files in the plugin if can't load font.
+- The font files included in this plugin is Variable Font, have some requires on system version, see the general scope below:
+  - Computer: Windows 10 (1607+) or macOS 10.13+
+  - Mobile Phone: iOS 11+ or Android 8.0+
+  - Browser: Chrome 62+, Firefox 62+, Safari 11+, Edge (Chromium)
 
-### Notes
+## ChangeLog
 
-- This plugin may not be compatible with other font or Emoji plugins available in the marketplace. Please disable other font or Emoji plugins when using this one.
-- Does not include traditional Chinese glyphs, as the HarmonyOS font does not fully support traditional characters.
+## Acknowledgments
 
-### Acknowledgments
-
-Post: [思源笔记手机端和电脑端使用同一字体 - 链滴](https://ld246.com/article/1705399357823)
-
-Repository: [zuoez02/siyuan-plugin-twitter-emoji](https://github.com/zuoez02/siyuan-plugin-twitter-emoji)
+Template repo: [TCOTC/siyuan-ttf-HarmonyOS_Sans_SC-and-Twemoji](https://github.com/TCOTC/siyuan-ttf-HarmonyOS_Sans_SC-and-Twemoji)
