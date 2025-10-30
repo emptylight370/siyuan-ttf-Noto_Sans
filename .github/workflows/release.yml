@@ -1,27 +1,34 @@
-name: Create package.zip 3
-on: 
-  push: 
-    tags:
-      - "*"
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-    - uses: actions/checkout@master
-    - name: Archive Release
-      uses: thedoctor0/zip-release@0.7.1
-      with:
-        type: 'zip'
-        filename: 'package.zip'
-        exclusions: '*.git* /*LICENSE /*Backup/*'
+name: Create Release on Push Package.json
 
-    - name: Upload Release
-      uses: ncipollo/release-action@v1
-      with:
-        allowUpdates: true
-        prerelease: true
-        artifactErrorsFailBuild: true
-        removeArtifacts: false
-        replacesArtifacts: false
-        artifacts: "package.zip"
-        token: ${{ secrets.GITHUB_TOKEN }}
+on:
+  push:
+    paths: "plugin.json"
+  workflow_dispatch:
+
+jobs:
+  package:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+      packages: write
+
+    steps:
+      - uses: actions/checkout@v5
+
+      - name: Package
+        run: zip -r package.zip . -i 'index.*' 'style.css' 'font-face.css' 'icon.png' 'preview.png' 'plugin.json' 'README*.md' 'fonts/*'
+
+      - name: Get version
+        uses: sergeysova/jq-action@v2
+        id: version
+        with:
+          cmd: 'jq -r ".version" plugin.json'
+
+      - name: Release
+        uses: softprops/action-gh-release@v2
+        with:
+          files: package.zip
+          name: Release ${{ steps.version.outputs.value }}
+          tag_name: ${{ steps.version.outputs.value }}
+          make_latest: true
