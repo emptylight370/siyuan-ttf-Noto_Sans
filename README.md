@@ -12,8 +12,6 @@ The font files comes from: [Noto - Google Fonts](https://fonts.google.com/noto),
   - Browser: Chrome 62+, Firefox 62+, Safari 11+, Edge (Chromium)
 - If your system doesn't match the requirements above, it is recommended to install the fonts yourself within the system to prevent the use of variable fonts from becoming unavailable.
 
-Installed space: 21MB
-
 ## ChangeLog
 
 ## Acknowledgments
