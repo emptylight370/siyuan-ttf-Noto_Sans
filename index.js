@@ -22,6 +22,7 @@ module.exports = class PluginNotoSans extends require('siyuan').Plugin {
             // 预加载字体
             document.fonts.load('16px "Noto Sans"').catch(document.fonts.load('16px "NotoSans Plugin"'));
           } catch (_) {}
+          console.log(`${this.pluginName}: loaded.`);
         }, 0);
       })
       .catch((error) => {
@@ -31,11 +32,11 @@ module.exports = class PluginNotoSans extends require('siyuan').Plugin {
 
   onunload() {
     this.style?.remove();
-    console.log(`${pluginName}: unloaded.`);
+    console.log(`${this.pluginName}: unloaded.`);
   }
 
   uninstall() {
     this.style?.remove();
-    console.log(`${pluginName}: uninstall.`);
+    console.log(`${this.pluginName}: uninstall.`);
   }
 };
