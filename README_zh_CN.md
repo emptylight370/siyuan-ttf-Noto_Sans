@@ -12,7 +12,9 @@
   - 浏览器: Chrome 62+, Firefox 62+, Safari 11+, Edge (Chromium)
 - 如果系统不满足上述要求，建议自行在系统中安装字体，以防止可变字体不可用。
 
-## 更新日志
+## [更新日志](https://github.com/emptylight370/siyuan-ttf-Noto_Sans/blob/main/changelog.md)
+
+- 2025-11-02 修改加载方式
 
 ## 鸣谢
 
