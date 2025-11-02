@@ -12,6 +12,8 @@
   - 浏览器: Chrome 62+, Firefox 62+, Safari 11+, Edge (Chromium)
 - 如果系统不满足上述要求，建议自行在系统中安装字体，以防止可变字体不可用。
 
+自思源笔记 3.1.25 版本起，出现问题导致导出图片时无法加载文字。后在未知版本修复。如果你正在使用旧版本思源，并且导出图片时无法加载文字，请更新思源/回退插件版本，并告诉我出现问题的思源版本。
+
 ## [更新日志](https://github.com/emptylight370/siyuan-ttf-Noto_Sans/blob/main/changelog.md)
 
 - 2025-11-02 修改加载方式

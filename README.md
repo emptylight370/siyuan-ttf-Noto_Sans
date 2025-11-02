@@ -12,6 +12,8 @@ The font files comes from: [Noto - Google Fonts](https://fonts.google.com/noto),
   - Browser: Chrome 62+, Firefox 62+, Safari 11+, Edge (Chromium)
 - If your system doesn't match the requirements above, it is recommended to install the fonts yourself within the system to prevent the use of variable fonts from becoming unavailable.
 
+Since SiYuan note version 3.1.25, there's a problem makes texts can't load when exporting image. And it is fixed in unknown version. If you're using an old version of SiYuan, and can't load text when exporting image, please upgrade SiYuan/downgrade plugin, and let me know what version of SiYuan you are using.
+
 ## [ChangeLog](https://github.com/emptylight370/siyuan-ttf-Noto_Sans/blob/main/changelog.md)
 
 - 2025-11-02 Change load method
