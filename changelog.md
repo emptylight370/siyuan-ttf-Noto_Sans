@@ -1,3 +1,17 @@
+## [0.1.3](https://github.com/emptylight370/siyuan-ttf-Noto_Sans/compare/0.1.2...0.1.3) (2025-11-13)
+
+### 📄 Documentation | 文档
+
+- 添加更新日志 ([9849746](https://github.com/emptylight370/siyuan-ttf-Noto_Sans/commit/98497468721f911a671f99dec82975e82142b1e7))
+
+### ⚡ Performance | 性能优化
+
+- Compress images to fit the requirement ([5423e3a](https://github.com/emptylight370/siyuan-ttf-Noto_Sans/commit/5423e3ad75b77f32c66911c5b06eb76a7b16cd6b))
+
+### 🛠️ Build system | 构建系统
+
+- 日志中不包含发版提交 ([fbf8925](https://github.com/emptylight370/siyuan-ttf-Noto_Sans/commit/fbf8925d284c5a5bb83fc9902553212e66a063b5))
+
 ## [0.1.2](https://github.com/emptylight370/siyuan-ttf-Noto_Sans/compare/0.1.1...0.1.2) (2025-11-02)
 
 ### ✨ Features | 功能
