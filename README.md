@@ -16,6 +16,7 @@ Since SiYuan note version 3.1.25, there's a problem makes texts can't load when 
 
 ## [ChangeLog](https://github.com/emptylight370/siyuan-ttf-Noto_Sans/blob/main/changelog.md)
 
+- 2025-11-14 Compress image size
 - 2025-11-02 Change load method
 
 ## Acknowledgments
