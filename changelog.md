@@ -1,3 +1,5 @@
+## [0.2.0](https://github.com/emptylight370/siyuan-ttf-Noto_Sans/compare/0.1.3...0.2.0) (2025-11-14)
+
 ## [0.1.3](https://github.com/emptylight370/siyuan-ttf-Noto_Sans/compare/0.1.2...0.1.3) (2025-11-13)
 
 ### 📄 Documentation | 文档
