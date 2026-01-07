@@ -1,3 +1,13 @@
+## [0.2.1](https://github.com/emptylight370/siyuan-ttf-Noto_Sans/compare/0.2.0...0.2.1) (2026-01-07)
+
+### 🐛 Bug Fixes | 问题修复
+
+- 修复非英语输入 ` 符号出现显示问题 ([94242eb](https://github.com/emptylight370/siyuan-ttf-Noto_Sans/commit/94242eb55e6cc63b81dde721e015b4e5dba64e90))
+
+### 🛠️ Build system | 构建系统
+
+- 迁移到mise进行管理 ([693e3ec](https://github.com/emptylight370/siyuan-ttf-Noto_Sans/commit/693e3ecda34ae86cc61e1e0d0c5f4f70a355c7f8))
+
 ## [0.2.0](https://github.com/emptylight370/siyuan-ttf-Noto_Sans/compare/0.1.3...0.2.0) (2025-11-14)
 
 ## [0.1.3](https://github.com/emptylight370/siyuan-ttf-Noto_Sans/compare/0.1.2...0.1.3) (2025-11-13)
