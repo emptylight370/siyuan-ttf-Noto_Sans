@@ -49,13 +49,13 @@
 }
 
 :root:lang(zh_CN) {
-    --b3-font-family: 'Noto Sans', 'Noto Sans SC', 'Noto Sans CJK SC', 'NotoSans Plugin', 'NotoSans SC Plugin', 'Emojis Additional', 'Emojis Reset', BlinkMacSystemFont, Helvetica, 'PingFang SC', 'Luxi Sans', 'DejaVu Sans', 'Hiragino Sans GB', 'Source Han Sans SC', arial, 'Microsoft Yahei', sans-serif, emojis !important;
+    --b3-font-family: 'Noto Sans SC', 'Noto Sans CJK SC', 'Noto Sans', 'NotoSans SC Plugin', 'NotoSans Plugin', 'Emojis Additional', 'Emojis Reset', BlinkMacSystemFont, Helvetica, 'PingFang SC', 'Luxi Sans', 'DejaVu Sans', 'Hiragino Sans GB', 'Source Han Sans SC', arial, 'Microsoft Yahei', sans-serif, emojis !important;
 }
 
 :root:lang(zh_CHT) {
-    --b3-font-family: 'Noto Sans', 'Noto Sans TC', 'Noto Sans CJK TC', 'NotoSans Plugin', 'NotoSans TC Plugin', 'Emojis Additional', 'Emojis Reset', BlinkMacSystemFont, Helvetica, 'PingFang TC', 'Luxi Sans', 'DejaVu Sans', 'Hiragino Sans TC', 'Source Han Sans TC', 'Microsoft JhengHei', arial, sans-serif, emojis !important;
+    --b3-font-family: 'Noto Sans TC', 'Noto Sans CJK TC', 'Noto Sans', 'NotoSans TC Plugin', 'NotoSans Plugin', 'Emojis Additional', 'Emojis Reset', BlinkMacSystemFont, Helvetica, 'PingFang TC', 'Luxi Sans', 'DejaVu Sans', 'Hiragino Sans TC', 'Source Han Sans TC', 'Microsoft JhengHei', arial, sans-serif, emojis !important;
 }
 
 :root:lang(ja_JP) {
-    --b3-font-family: 'Noto Sans', 'Noto Sans JP', 'Noto Sans CJK JP', 'NotoSans Plugin', 'NotoSans JP Plugin', 'Emojis Additional', 'Emojis Reset', BlinkMacSystemFont, Helvetica, 'Luxi Sans', 'DejaVu Sans', 'Yu Gothic UI', arial, sans-serif, emojis !important;
+    --b3-font-family: 'Noto Sans JP', 'Noto Sans CJK JP', 'Noto Sans', 'NotoSans JP Plugin', 'NotoSans Plugin', 'Emojis Additional', 'Emojis Reset', BlinkMacSystemFont, Helvetica, 'Luxi Sans', 'DejaVu Sans', 'Yu Gothic UI', arial, sans-serif, emojis !important;
 }

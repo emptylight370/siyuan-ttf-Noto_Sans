@@ -18,6 +18,7 @@ Since SiYuan note version 3.1.25, there's a problem makes texts can't load when 
 
 - 2025-11-14 Compress image size
 - 2025-11-02 Change load method
+- 2026-01-07 Fixed the issue where the non-English language input symbol <code>\`</code> wasn't displayed correctly
 
 ## Acknowledgments
 
