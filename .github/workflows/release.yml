@@ -2,7 +2,7 @@ name: Create Release on Push Package.json
 
 on:
   push:
-    paths: "plugin.json"
+    paths: 'plugin.json'
   workflow_dispatch:
 
 jobs:
@@ -14,7 +14,7 @@ jobs:
       packages: write
 
     steps:
-      - uses: actions/checkout@v5
+      - uses: actions/checkout@v6
 
       - name: Package
         run: zip -r package.zip . -i 'index.*' 'style.css' 'font-face.css' 'icon.png' 'preview.png' 'plugin.json' 'README*.md' 'fonts/*'
