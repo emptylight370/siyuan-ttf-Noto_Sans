@@ -1,4 +1,5 @@
 [tools]
+bun = "latest"
 lefthook = "latest"
 "npm:conventional-changelog-cli" = "latest"
 "prettier" = "latest"
@@ -8,5 +9,8 @@ description = "通过 conventional-changelog-cli 生成变更日志"
 run = [
   "conventional-changelog -i changelog.md -s -n conventional-changelog.config.json -k plugin.json -c plugin.json",
   "prettier -w changelog.md",
-  "git add changelog.md"
+  "git add changelog.md",
 ]
+
+[settings]
+npm.package_manager = "bun"
