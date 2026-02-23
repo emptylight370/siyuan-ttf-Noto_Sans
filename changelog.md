@@ -1,3 +1,20 @@
+## [0.2.2](https://github.com/emptylight370/siyuan-ttf-Noto_Sans/compare/0.2.1...0.2.2) (2026-02-23)
+
+### ✨ Features | 功能
+
+- 更新赞助链接[skip ci] ([53c60e3](https://github.com/emptylight370/siyuan-ttf-Noto_Sans/commit/53c60e38462f45459a6b84f22a07aa950ecac2c9))
+- Update deps ([2da6562](https://github.com/emptylight370/siyuan-ttf-Noto_Sans/commit/2da6562ea436535949fcc611cfa67e29cd6e92f7))
+
+### 🛠️ Build system | 构建系统
+
+- 添加lefthook管理git ([aa5cccf](https://github.com/emptylight370/siyuan-ttf-Noto_Sans/commit/aa5cccfdce5f879b6f8da4aa01726d1ceb02bd14))
+- 优化构建步骤 ([5be7d7b](https://github.com/emptylight370/siyuan-ttf-Noto_Sans/commit/5be7d7b5f373157c1d31937e901d72873dfb022d))
+- **actions:** 更新actions工作流 ([7ca3f29](https://github.com/emptylight370/siyuan-ttf-Noto_Sans/commit/7ca3f29249ee2cdeed755f6e36961296ba2ae2ac))
+- **lefthook:** 并行执行检查缩短处理时间 ([287185d](https://github.com/emptylight370/siyuan-ttf-Noto_Sans/commit/287185df3668b83fd397b022146ba4b4c0190438))
+- **lefthook:** 修改触发条件 ([f269ca9](https://github.com/emptylight370/siyuan-ttf-Noto_Sans/commit/f269ca93d936cd8286258f50807de8c44fc3d421))
+- **Lefthook:** 在检查commit message时不区分大小写 ([bad7cd5](https://github.com/emptylight370/siyuan-ttf-Noto_Sans/commit/bad7cd5a5fbe288403d08fe59ea3b9ba88a55a25))
+- **lefthook:** 重置格式化文件的逻辑 ([b24b812](https://github.com/emptylight370/siyuan-ttf-Noto_Sans/commit/b24b812f255f5b9ad94da543ec9c86cc4b507396))
+
 ## [0.2.1](https://github.com/emptylight370/siyuan-ttf-Noto_Sans/compare/0.2.0...0.2.1) (2026-01-07)
 
 ### 🐛 Bug Fixes | 问题修复
