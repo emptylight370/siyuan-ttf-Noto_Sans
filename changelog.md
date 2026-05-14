@@ -59,7 +59,7 @@
 
 - 修改提交日志格式定义文件 ([13f9ded](https://github.com/emptylight370/siyuan-ttf-Noto_Sans/commit/13f9ded02ec8e4130b3d26788da340faff180cd2))
 
-## 0.1.0 (2025-10-30)
+## [0.1.0](https://github.com/emptylight370/siyuan-ttf-Noto_Sans/compare/2477010d167ba0d078dcf9bd858d2af75c34f25d...0.1.0) (2025-10-30)
 
 ### ✨ Features | 功能
 
