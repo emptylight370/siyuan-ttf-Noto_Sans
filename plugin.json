@@ -6,18 +6,18 @@
   "backends": ["all"],
   "frontends": ["all"],
   "disabledInPublish": false,
-  "minAppVersion": "3.2.0",
+  "minAppVersion": "3.7.0",
   "displayName": {
     "default": "NotoSans font",
-    "zh_CN": "NotoSans字体"
+    "zh-CN": "NotoSans字体"
   },
   "description": {
     "default": "Use NotoSans as layout font",
-    "zh_CN": "使用NotoSans作为界面字体"
+    "zh-CN": "使用NotoSans作为界面字体"
   },
   "readme": {
     "default": "README.md",
-    "zh_CN": "README_zh_CN.md"
+    "zh-CN": "README_zh-CN.md"
   },
   "funding": {
     "custom": ["https://blog.emptylight.cn/sponsor"]
