@@ -1,3 +1,18 @@
+## [0.3.0](https://github.com/emptylight370/siyuan-ttf-Noto_Sans/compare/0.2.2...0.3.0) (2026-06-30)
+
+### 🔨 Refactor | 重构
+
+- 适配BCP 47规范[skip ci] ([6b13828](https://github.com/emptylight370/siyuan-ttf-Noto_Sans/commit/6b13828563b0dd5c6c550c2291dd1a77fdd0aba7))
+
+### 🛠️ Build system | 构建系统
+
+- **(actions)** 获取提交历史以生成变更 ([0e2b8da](https://github.com/emptylight370/siyuan-ttf-Noto_Sans/commit/0e2b8daf67b5fe1325de67c724e7ad891421bf40))
+- 更换获取版本号工作流 ([e358392](https://github.com/emptylight370/siyuan-ttf-Noto_Sans/commit/e3583925a3c37703bb0188ddb0246db55ab63fe9))
+- 更新工作流文件 ([2a5046e](https://github.com/emptylight370/siyuan-ttf-Noto_Sans/commit/2a5046ebfd4d5aed653009cf1b1ad6729589b925))
+- 迁移到conventional-changelog ([c41d960](https://github.com/emptylight370/siyuan-ttf-Noto_Sans/commit/c41d960c2caa1033dee69a34aa16cdc8d4dbfe45))
+- 切换到git-cliff ([98d2be7](https://github.com/emptylight370/siyuan-ttf-Noto_Sans/commit/98d2be7291d29f1085f8a537fdd0c4f374352acb))
+- **(changelog)** 生成首个版本的链接 ([49925d1](https://github.com/emptylight370/siyuan-ttf-Noto_Sans/commit/49925d1d8304d781a18da545fde57329c815854c))
+
 ## [0.2.2](https://github.com/emptylight370/siyuan-ttf-Noto_Sans/compare/0.2.1...0.2.2) (2026-02-23)
 
 ### ✨ Features | 功能
