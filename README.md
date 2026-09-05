@@ -12,7 +12,9 @@ The font files comes from: [Noto - Google Fonts](https://fonts.google.com/noto),
   - Browser: Chrome 62+, Firefox 62+, Safari 11+, Edge (Chromium)
 - If your system doesn't match the requirements above, it is recommended to install the fonts yourself within the system to prevent the use of variable fonts from becoming unavailable.
 
-Currently only supports SiYuan version 3.7.0 and above.
+> [!NOTE]
+> This plugin modifies the font range: global. Modifies the variable: `--b3-font-family`.
+> Compatible with editor font in settings, compatible with other plugins/code snippets that edit other variables.
 
 ## [ChangeLog](https://github.com/emptylight370/siyuan-ttf-Noto_Sans/blob/main/changelog.md)
 

@@ -12,7 +12,9 @@
   - 浏览器: Chrome 62+, Firefox 62+, Safari 11+, Edge (Chromium)
 - 如果系统不满足上述要求，建议自行在系统中安装字体，以防止可变字体不可用。
 
-目前仅支持思源 3.7.0 及以上版本。
+> [!NOTE]
+> 本插件修改字体范围：全局。修改变量：`--b3-font-family`。
+> 与设置中编辑器字体兼容，与修改其余变量插件/代码片段兼容。
 
 ## [更新日志](https://github.com/emptylight370/siyuan-ttf-Noto_Sans/blob/main/changelog.md)
 
