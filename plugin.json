@@ -6,7 +6,7 @@
   "backends": ["all"],
   "frontends": ["all"],
   "disabledInPublish": false,
-  "minAppVersion": "3.7.0",
+  "minAppVersion": "3.8.3-alpha.1",
   "displayName": {
     "default": "NotoSans font",
     "zh-CN": "NotoSans字体"
