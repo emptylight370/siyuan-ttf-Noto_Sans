@@ -24,7 +24,7 @@ The font files comes from: [Noto - Google Fonts](https://fonts.google.com/noto),
 - 2026-01-07 Fixed the issue where the non-English language input symbol <code>\`</code> wasn't displayed correctly
 - 2026-02-23 Update sponsorship link
 - 2026-06-30 Adapt to SiYuan 3.7.0
-- 2026-09-05 Adapt to SiYuan 3.8.2, 3.8.3
+- 2026-09-10 Adapt to SiYuan 3.8.2, 3.8.3
 
 ## Acknowledgments
 

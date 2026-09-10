@@ -1,3 +1,19 @@
+## [0.4.0](https://github.com/emptylight370/siyuan-ttf-Noto_Sans/compare/0.3.1...0.4.0) (2026-09-10)
+
+### ✨ Features | 功能
+
+- 跟进最新font-family[skip ci]#1 ([0d1a89f](https://github.com/emptylight370/siyuan-ttf-Noto_Sans/commit/0d1a89fae6917431c6391b241bfbf7cf08f4693b))
+- 适配3.8.3全局字体[skip ci] ([935cfe3](https://github.com/emptylight370/siyuan-ttf-Noto_Sans/commit/935cfe3560e27c351ed7f6dc50f3cf237a7c26f1))
+
+### 📄 Documentation | 文档
+
+- 增加兼容性说明 ([196597f](https://github.com/emptylight370/siyuan-ttf-Noto_Sans/commit/196597fce545a28c9d4104e028542675ad0dc6b6))
+- 更新文档 ([3379d16](https://github.com/emptylight370/siyuan-ttf-Noto_Sans/commit/3379d1660b8e42a12d4ffb8afb3802f9fabff4ef))
+
+### 🛠️ Build system | 构建系统
+
+- Update actions ([445a948](https://github.com/emptylight370/siyuan-ttf-Noto_Sans/commit/445a94865ca90675f8f42682f6b47bc7d4a65340))
+
 ## [0.3.0](https://github.com/emptylight370/siyuan-ttf-Noto_Sans/compare/0.2.2...0.3.0) (2026-06-30)
 
 ### 🔨 Refactor | 重构
