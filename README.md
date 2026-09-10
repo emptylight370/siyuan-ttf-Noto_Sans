@@ -13,8 +13,9 @@ The font files comes from: [Noto - Google Fonts](https://fonts.google.com/noto),
 - If your system doesn't match the requirements above, it is recommended to install the fonts yourself within the system to prevent the use of variable fonts from becoming unavailable.
 
 > [!NOTE]
-> This plugin modifies the font range: global. Modifies the variable: `--b3-font-family`.
+> This plugin modifies the font range: global. Modifies the variable: `--b3-font-family-default`.
 > Compatible with editor font in settings, compatible with other plugins/code snippets that edit other variables.
+> Changing the global font in settings will override the plugin's effect. Since SiYuan has added its own related settings, the plugin may not be maintained in the future. It is recommended to change the global font through the official method.
 
 ## [ChangeLog](https://github.com/emptylight370/siyuan-ttf-Noto_Sans/blob/main/changelog.md)
 
