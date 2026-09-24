@@ -6,7 +6,7 @@
   "backends": ["all"],
   "frontends": ["all"],
   "disabledInPublish": false,
-  "minAppVersion": "3.8.3-alpha.2",
+  "minAppVersion": "3.8.6-alpha.2",
   "displayName": {
     "default": "NotoSans font",
     "zh-CN": "NotoSans字体"
@@ -22,5 +22,8 @@
   "funding": {
     "custom": ["https://blog.emptylight.cn/sponsor"]
   },
-  "keywords": ["中文字体", "English Font", "Japanese Font"]
+  "keywords": ["中文字体", "English Font", "Japanese Font"],
+  "publish": {
+    "resources": ["fonts", "style.css"]
+  }
 }
