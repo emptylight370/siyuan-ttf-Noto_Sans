@@ -1,3 +1,9 @@
+## [0.5.1](https://github.com/emptylight370/siyuan-ttf-Noto_Sans/compare/0.5.0...0.5.1) (2026-10-05)
+
+### 🐛 Bug Fixes | 问题修复
+
+- 发布模式声明 ([c55bd07](https://github.com/emptylight370/siyuan-ttf-Noto_Sans/commit/c55bd079bec90b3db6fe8faa5877b9722bd7138b))
+
 ## [0.5.0](https://github.com/emptylight370/siyuan-ttf-Noto_Sans/compare/0.4.0...0.5.0) (2026-09-24)
 
 ### 🐛 Bug Fixes | 问题修复
