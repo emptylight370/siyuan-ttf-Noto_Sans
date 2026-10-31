@@ -22,13 +22,11 @@ The font files comes from: [Noto - Google Fonts](https://fonts.google.com/noto),
 
 ## [ChangeLog](https://github.com/emptylight370/siyuan-ttf-Noto_Sans/blob/main/changelog.md)
 
-- 2025-11-14 Compress image size
-- 2025-11-02 Change load method
-- 2026-01-07 Fixed the issue where the non-English language input symbol <code>\`</code> wasn't displayed correctly
-- 2026-02-23 Update sponsorship link
-- 2026-06-30 Adapt to SiYuan 3.7.0
-- 2026-09-10 Adapt to SiYuan 3.8.2, 3.8.3
+- 2026-10-31 Support load fonts in independent settings window(3.8.7)
 - 2026-09-24 Fix issue that publish service loaded error
+- 2026-09-10 Adapt to SiYuan 3.8.2, 3.8.3
+- 2026-06-30 Adapt to SiYuan 3.7.0
+- 2026-02-23 Update sponsorship link
 
 ## Acknowledgments
 
