@@ -1,10 +1,14 @@
 [tools]
 git-cliff = "latest"
 lefthook = "latest"
-node = "24"
+node = "26"
 "prettier" = "latest"
 
 [deps.lefthook]
 description = "Install lefthook hooks"
 run = "lefthook install"
 sources = ["lefthook.yml", ".lefthook", ".lefthook-local"]
+
+[tasks.format]
+description = "Format code with prettier"
+run = "prettier -w ."
