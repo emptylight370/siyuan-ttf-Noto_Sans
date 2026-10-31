@@ -20,6 +20,8 @@
     "default": "README.md",
     "zh-CN": "README.zh-CN.md"
   },
+  "icon": "icon.png",
+  "preview": "preview.png",
   "funding": {
     "custom": ["https://blog.emptylight.cn/sponsor"]
   },
