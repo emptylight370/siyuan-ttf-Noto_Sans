@@ -1,3 +1,13 @@
+## [0.5.3](https://github.com/emptylight370/siyuan-ttf-Noto_Sans/compare/0.5.2...0.5.3) (2026-10-31)
+
+### ✨ Features | 功能
+
+- 支持在独立设置窗口中加载字体 ([04fd1e2](https://github.com/emptylight370/siyuan-ttf-Noto_Sans/commit/04fd1e264b2d5ca4d5ab6b9e8e8cdf9f9fed1d6e))
+
+### 🛠️ Build system | 构建系统
+
+- 在当前版本存在时跳过构建 ([ae47050](https://github.com/emptylight370/siyuan-ttf-Noto_Sans/commit/ae47050b12ff29d8f6cc2a2809c1561eb64e22f6))
+
 ## [0.5.2](https://github.com/emptylight370/siyuan-ttf-Noto_Sans/compare/0.5.1...0.5.2) (2026-10-05)
 
 ### 🐛 Bug Fixes | 问题修复
